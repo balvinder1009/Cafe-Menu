@@ -1,0 +1,91 @@
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+body {
+  background-image: url(https://images.pexels.com/photos/7007155/pexels-photo-7007155.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  font-family: sans-serif;
+}
+.menu {
+  width: 80%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: burlywood;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
+}
+
+.item {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 1px solid black; */
+  margin-top: -25px;
+  margin-bottom: -25px;
+}
+
+.item p {
+  display: inline-block;
+}
+
+.flavor {
+  width: 75%;
+  text-align: left;
+  /* border: 1px solid black; */
+}
+
+.price {
+  width: 22%;
+  text-align: right;
+  /* border: 1px solid black; */
+}
+
+.dessert {
+  width: 75%;
+  text-align: left;
+}
+
+a {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: white;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.established {
+  font-style: italic;
+}
+
+.second {
+  margin-top: 38px;
+}
